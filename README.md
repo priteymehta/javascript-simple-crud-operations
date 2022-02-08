@@ -1,3 +1,3 @@
 # javascript-simple-crud-operations
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-bdmmlh)
+A JavaScript project to illustrate simple CRUD operations using async and promises.
